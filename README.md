@@ -7,7 +7,8 @@ Proyek web **AI chatbot** dengan **voice command** (speech-to-text) dan **text-t
 
 > Untuk jawaban AI sesungguhnya, set `GEMINI_API_KEY` di backend.
 
-🧠 Konsumsi Data Internal (RAG)
+## 🧠 Konsumsi Data Internal (RAG)
+
 Proyek ini menggunakan pendekatan Retrieval-Augmented Generation (RAG) untuk memungkinkan chatbot menjawab pertanyaan berdasarkan dokumen internal Anda.
 Berdasarkan implementasi saat ini, chatbot dapat mengolah file PDF dan PPTX sebagai sumber informasi internal.
 
